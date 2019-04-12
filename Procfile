@@ -1,1 +1,1 @@
-worker: node modmailbot.js
+worker node modmailbot.js
